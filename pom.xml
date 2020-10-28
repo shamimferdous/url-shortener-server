@@ -13,11 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>baturlshortner</name>
     <description>Url Shortner using java spring boot, postgressql, hibernate and spring jpa</description>
-
-    <properties>
-        <java.version>11</java.version>
-    </properties>
-
+    
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
