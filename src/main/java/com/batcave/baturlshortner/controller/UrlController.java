@@ -14,7 +14,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/")
-@CrossOrigin(origins = "https://baturls.netlify.app/")
+@CrossOrigin(origins = "https://baturls.netlify.app")
 public class UrlController {
 
     @Autowired
