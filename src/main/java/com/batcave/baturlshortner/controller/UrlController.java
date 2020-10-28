@@ -14,6 +14,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/")
+@CrossOrigin(origins = "http://loclahost:3000")
 public class UrlController {
 
     @Autowired
